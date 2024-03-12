@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H4lM/nFvacyTskpOc8D7ShIjUSbhm2/THMwJL+PLwWeNMKy6yMyXDEUujnu9JQwPDcL0Sk39eh/Im2rUBNl8Mg==",
+  "dgSpecHash": "LfMKTp5o8bzeIo/pJdMRbRB1eJ5lrd69Btpg/W+KCSLOzVM9vus0Zf9L0evaEDhtG3h9wrMnHunErYhWIUxqsg==",
   "success": true,
-  "projectFilePath": "E:\\MyProject\\StreamlineAcademy.Api\\StreamlineAcademy.Api\\StreamlineAcademy.Api.csproj",
+  "projectFilePath": "E:\\LocalRepository\\StreamLineAcademy-official\\StreamlineAcademy.Api\\StreamlineAcademy.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

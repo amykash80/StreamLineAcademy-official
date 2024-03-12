@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\StreamlineAcademy.Api\\StreamlineAcademy.Api\\StreamlineAcademy.Api.csproj",
+      "projectUniqueName": "E:\\LocalRepository\\StreamLineAcademy-official\\StreamlineAcademy.Api\\StreamlineAcademy.Api.csproj",
       "projectName": "StreamlineAcademy.Api",
-      "projectPath": "E:\\MyProject\\StreamlineAcademy.Api\\StreamlineAcademy.Api\\StreamlineAcademy.Api.csproj",
+      "projectPath": "E:\\LocalRepository\\StreamLineAcademy-official\\StreamlineAcademy.Api\\StreamlineAcademy.Api.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\StreamlineAcademy.Api\\StreamlineAcademy.Api\\obj\\",
+      "outputPath": "E:\\LocalRepository\\StreamLineAcademy-official\\StreamlineAcademy.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

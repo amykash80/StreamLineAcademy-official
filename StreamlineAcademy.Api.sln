@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamlineAcademy.Api", "StreamlineAcademy.Api\StreamlineAcademy.Api.csproj", "{E6AEB90B-5367-4996-BC95-715032A12DC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreamlineAcademy.Api", "StreamlineAcademy.Api\StreamlineAcademy.Api.csproj", "{E6AEB90B-5367-4996-BC95-715032A12DC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{514DB12E-B82F-4D6F-9033-E4F7D4AEB711}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APi", "APi", "{49A69550-F866-405E-8F10-C1025C4C4EF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +22,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{49A69550-F866-405E-8F10-C1025C4C4EF9} = {514DB12E-B82F-4D6F-9033-E4F7D4AEB711}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7E95A696-4ACB-41AB-9F71-1163AFD09270}
