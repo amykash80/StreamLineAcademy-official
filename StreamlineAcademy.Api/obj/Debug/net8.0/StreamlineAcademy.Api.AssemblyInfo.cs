@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StreamlineAcademy.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94985ddac1fcd0689ea8042f54c8c02192cfa14f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StreamlineAcademy.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StreamlineAcademy.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
